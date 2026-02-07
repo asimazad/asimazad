@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi there, I'm Asim Azad! 👋
 
-<!--
-**asimazad/asimazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Software Engineering Student*
 
-Here are some ideas to get you started:
+I’m a dedicated software engineering student with hands-on experience in *C#, **C++, and **SQL, focused on building clean, efficient, and well-structured software. I enjoy applying **Object-Oriented Programming (OOP)* and *Data Structures & Algorithms* to solve real-world problems and continuously improve my technical foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning *C++, **Data Structures & Algorithms, and **Database core concepts*
+- 💡 Interested in *real-world problem solving, **software development, and **secure systems*
+- 💼 Current Role: *Second-year Software Engineering Student*
+- 📍 Location: *Mirpur AJK*
+
+---
+
+## 🛠️ Technical Arsenal
+
+I have worked on multiple projects that demonstrate strong *algorithmic thinking, **object-oriented design, and **software development fundamentals*.
+
+### 💻 Languages
+- C#
+- C++
+- SQL
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Design & Querying
+- Problem Solving & Logic Building
+
+### 🛠️ Tools & Technologies
+- Visual Studio
+- Git & GitHub
+- SQL Server
+
+---
+
+## 🔭 Projects & Problem Solving
+
+My repositories focus on *logic building, **problem-solving, and **clean software design*.  
+I don’t just write code — *I engineer solutions* using OOP, DSA, and SQL.
+
+### 🎮 Application Logic (C#)
+- Developed projects such as a *Quiz Game in C#*
+- Focused on control flow, user interaction, and structured program design
+
+### 🧱 Object-Oriented Programming
+- Multiple OOP-based projects implemented in *C#* and *C++*
+- Applied *encapsulation, inheritance, abstraction, and polymorphism*
+
+### 🛒 Data Structures & Algorithms
+- Built a *Grocery Management System*
+- Implemented efficient *searching, **sorting*, and logical system flow
+
+---
+
+## 📈 GitHub Stats
+
+![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimazad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimazad&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asimazad&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 GitHub: https://github.com/asimazad  
+- 📧 Email: [asimsoftwareengineer70@gmail.com](mailto:asimsoftwareengineer70@gmail.com)
