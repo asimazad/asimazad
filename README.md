@@ -34,6 +34,8 @@ I have worked on multiple projects that demonstrate strong *algorithmic thinking
 - Visual Studio
 - Git & GitHub
 - SQL Server
+- Dev C++
+- open AI
 
 ---
 
