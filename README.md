@@ -72,3 +72,4 @@ I don’t just write code — *I engineer solutions* using OOP, DSA, and SQL.
 
 - 🌐 GitHub: https://github.com/asimazad  
 - 📧 Email: [asimsoftwareengineer70@gmail.com](mailto:asimsoftwareengineer70@gmail.com)
+- 📧 LinkedIn : linkedin.com/in/asim-azad-4847453b8
