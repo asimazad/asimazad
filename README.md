@@ -8,7 +8,8 @@ I’m a dedicated software engineering student with hands-on experience in *C#, 
 
 ## 🚀 About Me
 
-- 🌱 Currently learning *C++, **Data Structures & Algorithms, and **Database core concepts*
+- Currently learning SQL in* Data Science*
+- 🌱 Currently learning *C++, **Python,**Data Structures & Algorithms, and **Database core concepts*
 - 💡 Interested in *real-world problem solving, **software development, and **secure systems*
 - 💼 Current Role: *Second-year Software Engineering Student*
 - 📍 Location: *Mirpur AJK*
