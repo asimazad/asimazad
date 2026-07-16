@@ -23,7 +23,7 @@ I have worked on multiple projects that demonstrate strong *algorithmic thinking
 - C#
 - C++
 - SQL
-- -python
+- python
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
