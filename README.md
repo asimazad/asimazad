@@ -2,7 +2,7 @@
 
 🎓 *Software Engineering Student*
 
-I’m a dedicated software engineering student with hands-on experience in *C#, **C++, and **SQL, focused on building clean, efficient, and well-structured software. I enjoy applying **Object-Oriented Programming (OOP)* and *Data Structures & Algorithms* to solve real-world problems and continuously improve my technical foundation.
+I’m a dedicated software engineering student with hands-on experience in *C#, **C++, **python,and **SQL, focused on building clean, efficient, and well-structured software. I enjoy applying **Object-Oriented Programming (OOP)* and *Data Structures & Algorithms* to solve real-world problems and continuously improve my technical foundation.
 
 ---
 
@@ -23,6 +23,7 @@ I have worked on multiple projects that demonstrate strong *algorithmic thinking
 - C#
 - C++
 - SQL
+- -python
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
@@ -36,6 +37,7 @@ I have worked on multiple projects that demonstrate strong *algorithmic thinking
 - SQL Server
 - Dev C++
 - open AI
+- Vs code
 
 ---
 
@@ -55,6 +57,9 @@ I don’t just write code — *I engineer solutions* using OOP, DSA, and SQL.
 ### 🛒 Data Structures & Algorithms
 - Built a *Grocery Management System*
 - Implemented efficient *searching, **sorting*, and logical system flow
+  
+### Youtube Downloder 
+- A consoled based bat file for downloading a video or a audio of a videdo in any quality.
 
 ---
 
