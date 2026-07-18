@@ -71,5 +71,5 @@ I don't just write code — I engineer solutions using OOP, DSA, and SQL.
 
 ## 📫 Connect with Me
 - 🌐 GitHub: [github.com/asimazad](https://github.com/asimazad)
-- 📧 Email: [asimazad2030@gmail.com](mailto:asimazad203@gmail.com)
+- 📧 Email: [asimazad203@gmail.com](mailto:asimazad203@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/asim-azad-4847453b8](https://www.linkedin.com/in/asim-azad-4847453b8)
