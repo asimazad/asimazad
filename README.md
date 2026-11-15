@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Asim Azad 👋</h1>
 
 <p align="center">
-  Software developer focused on <b>AI/ML</b> and <b>data science</b>.<br/>
-  I build data-driven tools: from raw data and analysis to something people can actually use.
+ A young, dynamic, result-oriented, and productive first-class Undergraduate of software engineering with hands on experience in Development and analytical skills. I am a fast learner and an open-minded team player who is passionate about pursuing a career as a Developer and analysist, with the hope of making significant and enormous contributions via innovative research and Technology..
 </p>
 
 <p align="center">
